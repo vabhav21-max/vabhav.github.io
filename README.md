@@ -1,6 +1,6 @@
 # vabhav.github.io
 # Welcome to My portfolio
-
+![image](image.jpg)
 ## ***INTRODUCTION***
 Greetings, I am Vabhav Bhateja, a passionate B.Tech Computer Science and Engineering student with the passion of learning new programming languages and exploring the tech field.
 
